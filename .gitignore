@@ -1,0 +1,8 @@
+# all object files
+*.o
+
+# all precompiled header files
+*.gch
+
+# vscode files
+.vscode/
